@@ -8,7 +8,7 @@ int main() {
     int base = 5;
     int altura = 3;
     float area = (base * altura) / 2.0;
-    printf("Aarea do tria¢ngulo: %f\n", area);
+    printf("AÂ area do triangulo: %f\n", area);
 
     return 0;
 }
